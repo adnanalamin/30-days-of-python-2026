@@ -12,3 +12,25 @@ print(type(age))
 number = 30.88
 print(number)
 print(type(number))
+
+#String
+
+name = 'Al amin'
+lastName = "Adnan"
+print(name)
+print(lastName)
+
+print(type(name))
+print(type(lastName))
+
+
+#Boolean
+
+isRight = True
+isRight2 = False
+
+print(isRight)
+print(type(isRight))
+
+print(isRight2)
+print(type(isRight2))
